@@ -7,7 +7,7 @@ Given the database dump as a .sql file and the System Design Specifications
 
 Opening up the Design Specs and going to Section 3.4 to see Table Design for Table names and information
 
-See tehre is a Patients table and a street field that is common to multiple tables.
+See there is a Patients table and a street field that is common to multiple tables.
 
 Create a blank database and import the data into it (googled how to use mysql cli)
 
