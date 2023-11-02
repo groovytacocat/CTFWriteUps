@@ -28,7 +28,7 @@ Looking at the aurora dump db there are 3 tables that wil give all the info nece
 +--------------------+
 ```
 
-Looking at the drugs and prescriptions tables since we all we'll need patients for is the names.
+Looking at the drugs and prescriptions tables since all we'll need patients for is the names.
 ```
 mysql> describe drugs; describe prescriptions;
 +-------------+---------------+------+-----+---------+----------------+
